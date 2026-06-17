@@ -42,7 +42,6 @@ namespace Vallejos_H1
             }
         }
 
-        // All helper methods must be inside Program class but outside Main
         static void AddStudent()
         {
             Console.Write("Enter student name: ");
