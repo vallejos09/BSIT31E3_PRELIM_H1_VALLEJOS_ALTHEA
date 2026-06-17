@@ -42,11 +42,13 @@ Example Interaction
 4. Class Average
 5. Top Student
 6. Exit
+
 Choose an option: 1
 
 Enter student name: Thea
 
 Enter grades separated by spaces: 90 85 88
+
 Student added successfully!
 
 Choose an option: 3
